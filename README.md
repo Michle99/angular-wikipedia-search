@@ -1,3 +1,3 @@
-# angular-wikipedia-search
+Wikipedia Page Search
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-dxfnxc)
+A wikipedia page that displays results from an entered input. 
